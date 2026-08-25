@@ -97,9 +97,6 @@ Atuação com desenvolvimento e manutenção de sistemas, correção de bugs e i
 * PostgreSQL
 * SQL Server
 * Firebird
-* ZeosLib
-* RX Lib
-* FortesReport CE
 
 ---
 
